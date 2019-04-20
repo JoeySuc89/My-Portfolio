@@ -1,0 +1,16 @@
+body {
+  background-image: url("../images/ReactWallpaper2.jpg");
+}
+.width100 {
+  width:100%;
+}
+
+.footer {
+  display: block;
+  text-align: justify;
+  margin: 0 auto;
+  padding: 10px;
+  background: darkslategray;
+  color: white;
+  width: 100%;
+}
